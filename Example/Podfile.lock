@@ -1,0 +1,14 @@
+PODS:
+  - JRUtilities (0.1.0)
+
+DEPENDENCIES:
+  - JRUtilities (from `../`)
+
+EXTERNAL SOURCES:
+  JRUtilities:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JRUtilities: ba5c6168fd2912f2adeb12a70fe9b3146d4ee744
+
+COCOAPODS: 0.38.2

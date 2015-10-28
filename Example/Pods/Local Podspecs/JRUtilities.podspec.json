@@ -1,0 +1,25 @@
+{
+  "name": "JRUtilities",
+  "version": "0.1.0",
+  "summary": "A short description of JRUtilities.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/JRUtilities",
+  "license": "MIT",
+  "authors": {
+    "Johan Rydenstam": "johan.rydenstam@klarna.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/JRUtilities.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "JRUtilities": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}

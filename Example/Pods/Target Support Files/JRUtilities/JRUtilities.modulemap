@@ -1,0 +1,6 @@
+framework module JRUtilities {
+  umbrella header "JRUtilities-umbrella.h"
+
+  export *
+  module * { export * }
+}
