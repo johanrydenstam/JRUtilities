@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'JRUtilities_Example', :exclusive => true do
+  pod "JRUtilities", :path => "../"
+end
+
+target 'JRUtilities_Tests', :exclusive => true do
+  pod "JRUtilities", :path => "../"
+
+  
+end
